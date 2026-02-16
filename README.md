@@ -39,6 +39,7 @@
 ![Vedant's Stats](https://github-readme-stats-fast.vercel.app/api?username=Vedant4102004&show_icons=true&theme=tokyonight)
 
   
+![Vedant's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vedant4102004&theme=tokyonight)
 
 <!---
 Vedant4102004/Vedant4102004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
