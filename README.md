@@ -36,7 +36,8 @@
 ---
 
 ### 📊 GitHub Stats
-![Vedant's Stats](https://github-readme-stats.vercel.app/api?username=Vedant4102004&show_icons=true&theme=tokyonight)
+![Vedant's Stats](https://github-readme-stats.vercel.app/api?username=Vedant4102004&show_icons=true&theme=tokyonight&count_private=true)
+
   
 
 <!---
