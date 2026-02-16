@@ -41,6 +41,12 @@
   
 ![Vedant's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vedant4102004&theme=tokyonight)
 
+
+
+
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vedant4102004&theme=tokyonight&area=true)
+
 <!---
 Vedant4102004/Vedant4102004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
