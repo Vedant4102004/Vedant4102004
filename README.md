@@ -38,10 +38,6 @@
 ### 📊 GitHub Stats
 ![Vedant's Stats](https://github-readme-stats-fast.vercel.app/api?username=Vedant4102004&show_icons=true&theme=tokyonight)
 
-  
-![Vedant's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vedant4102004&theme=tokyonight)
-
-
 
 
 
