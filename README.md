@@ -1,151 +1,140 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=Vedant+Gawande;AI%2FML+Engineer;Computer+Vision+Enthusiast;Deep+Learning+Practitioner;Exploring+GenAI+%26+LLMs" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=Vedant+Gawande;AI%2FML+Engineer;Computer+Vision+%7C+Deep+Learning;Exploring+GenAI+%26+LLMs" />
 </p>
 
 ---
 
-# 👋 Vedant Gawande
+## 👋 About Me
 
 🎓 B.Tech Electrical Engineering @ SGSITS Indore (2023–2027)  
-📊 CGPA: 8.46  
-🤖 AI/ML Engineer | Computer Vision | Deep Learning | Exploring GenAI
-
----
-
-## 🚀 About Me
-
-I am an AI/ML enthusiast focused on building real-world intelligent systems using **Computer Vision, Machine Learning, and Data-driven AI solutions**.
-
-I enjoy solving industrial and financial problems using AI and am currently expanding into **Generative AI and LLM-based systems**.
+📊 CGPA: 8.30 
+🤖 AI/ML Engineer focused on Computer Vision, Deep Learning & Applied AI  
 
 ---
 
 ## 🧠 Experience
 
 ### 🏢 Infosys Springboard — AI Intern
-`Computer Vision | Industrial AI | Automation`
-
-- Built PCB defect detection system achieving **94% mAP accuracy**
-- Optimized inference pipeline to **5ms latency per image**
-- Designed spatial mapping dashboard for real-time industrial feedback
-- Processed **50+ images per batch** for scalable inspection
-- Automated PDF/CSV reporting → **70% reduction in manual effort**
-- Presented architecture and results to senior technical panel
-
----
+- 🧩 PCB defect detection system → **94% mAP accuracy**
+- ⚡ Optimized inference → **5ms latency**
+- 📊 Real-time industrial dashboard
+- 📄 Automated reporting → 70% effort reduction
 
 ### 🤖 Edunet Foundation — ML Intern
-`Machine Learning | NLP | Cloud AI`
-
-- Improved ML model accuracy by **12%**
-- Reduced training time by **20% via optimized pipelines**
-- Collaborated in a 5-member AI team improving delivery efficiency by **15%**
-- Researched ethical AI practices and created reusable guidelines
+- 📈 Improved model accuracy by 12%
+- ⚙️ Reduced training time by 20%
+- 🤝 Worked in 5-member AI team
+- 📚 Ethical AI research contributions
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔍 AI Circuit Guard (PCB Defect Detection)
-`PyTorch • OpenCV • Streamlit`
+### 🔍 AI Circuit Guard
+✔ 94% accuracy  
+✔ 1500+ images  
+✔ 5ms inference  
+✔ Streamlit dashboard  
 
-✔ 94% mAP accuracy  
-✔ 1500+ image dataset  
-✔ 5ms inference latency  
-✔ 90% faster inspection process  
+### 🏥 Healthcare Prediction
+✔ XGBoost + ML models  
+✔ 99.7% high-risk accuracy  
+✔ Feature importance insights  
 
----
-
-### 🏥 Healthcare Insurance Premium Prediction
-`Machine Learning • XGBoost • Python`
-
-✔ Multi-model regression system (Linear, Ridge, XGBoost)  
-✔ Feature engineering for risk segmentation  
-✔ 99.7% accuracy in high-risk group  
-✔ Business insights via feature importance  
+### 💳 Credit Risk System
+✔ AUC 0.98  
+✔ KS 85.98%  
+✔ Explainable AI pipeline  
 
 ---
 
-### 💳 Credit Risk Modeling System
-`ML • Finance Analytics • XGBoost`
+## 🛠️ Skills (VISUAL)
 
-✔ AUC: 0.98 | KS: 85.98% | Gini: 0.97  
-✔ Reduced false positives by 20%  
-✔ Credit scoring system (Poor → Excellent)  
-✔ Explainable AI for financial decisions  
-
----
-
-## 🤖 AI / ML Stack
-
-### Core Machine Learning
-- Supervised & Unsupervised Learning  
-- Regression & Classification Models  
-- Feature Engineering & Model Optimization  
-
-### Deep Learning & CV
-- CNNs & Neural Networks  
-- Computer Vision (Detection, Classification)  
-- OpenCV-based pipelines  
-
-### NLP & Data Science
-- Natural Language Processing (NLP)  
-- Statistical Modeling  
-- Data Preprocessing & Analysis  
-
-### 🚀 Generative AI (Exploring)
-- Large Language Models (LLMs) – GPT / LLaMA (learning & experimentation)  
-- Prompt Engineering  
-- Retrieval-Augmented Generation (RAG) concepts  
-- Embeddings & Vector Search (FAISS basics)  
-- Hugging Face Transformers  
+### 👨‍💻 Programming Languages
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 ---
 
-## 🧰 Tools & Technologies
+### 🤖 AI / ML
+<p>
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-1f4b99?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-ff6f00?style=for-the-badge"/>
+</p>
 
-**Languages:** Python, Java, C, SQL  
+---
 
-**Frameworks & Libraries:**  
-PyTorch • TensorFlow • Scikit-learn • OpenCV • Streamlit • NumPy • Pandas • Matplotlib  
+### 🧰 Frameworks & Tools
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge"/>
+</p>
 
-**Developer Tools:**  
-Git • GitHub • Linux (Ubuntu) • VS Code  
+---
+
+### 🚀 Exploring (GenAI Stack)
+<p>
+<img src="https://img.shields.io/badge/LLMs-GPT%2FLLaMA-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-Vector%20Search-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embeddings-FAISS-green?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vedant4102004&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant4102004&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedant4102004&theme=tokyo-night"/>
+</p>
 
 ---
 
 ## 🏆 Achievements
 
-- 🏅 Amazon ML Summer School (Top 3000 / 60,000)
-- 🏅 Kaggle NLP Competition → Top 25%
-- 🏅 Kaggle Multilingual NLP → Rank 6/24
-- 🏆 Amazon ML Challenge 2025 → Rank 688 Nationwide
-- 🧠 SIH Finalist (Smart India Hackathon)
-- 🎓 NPTEL Machine Learning Certification
-- 🎓 HackerRank Python for Data Science Certification
+🏅 Amazon ML Summer School (Top 3000 / 60,000)  
+🏅 Kaggle NLP Top 25%  
+🏅 Kaggle Rank 6/24 (Multilingual NLP)    
+🎓 NPTEL ML Certification  
+🎓 HackerRank Python Certification  
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-
 <a href="mailto:vedantgawande488@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://www.linkedin.com/in/vedant-gawande-85039032b/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
-
-<a href="https://github.com/Vedant4102004">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </p>
 
 ---
 
 <p align="center">
-  <b>🚀 Building AI systems that solve real-world problems and exploring the future of GenAI</b>
+🚀 Building AI systems that solve real-world problems | Exploring GenAI & LLMs
 </p>
