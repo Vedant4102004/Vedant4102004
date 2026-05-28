@@ -1,120 +1,151 @@
-# 👋 Hi, I'm Vedant Gawande
+# 👋 Vedant Gawande
 
-🚀 AI/ML Engineer | Computer Vision Enthusiast | Deep Learning Practitioner  
-🎓 B.Tech Electrical Engineering @ SGSITS Indore (2023–2027) | CGPA: 8.46  
-📍 Passionate about building real-world AI systems that solve impactful problems
-
----
-
-## 🚀 About Me
-
-I am an AI/ML enthusiast focused on building intelligent systems in **Computer Vision, Machine Learning, and Generative AI**.  
-
-I enjoy transforming data into actionable insights and deploying scalable AI solutions that solve real-world industrial and financial problems.
-
-- 👀 Interests: Artificial Intelligence, Machine Learning, Computer Vision  
-- 🌱 Currently Learning: Deep Learning, NLP, and MLOps  
-- 💞️ Open to collaborate on: AI/ML research projects and open-source contributions  
-- ⚡ Goal: To contribute to impactful AI systems in industry and research  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Computer+Vision+Enthusiast;Deep+Learning+Practitioner;Building+Real+World+AI+Systems" />
+</p>
 
 ---
 
-## 💼 Experience
+## ⚡ About Me
 
-### 🧠 AI Intern – Infosys Springboard (Nov 2025 – Jan 2025)
-- Developed a **Computer Vision system for PCB defect detection** achieving **94% mAP accuracy** across 6 defect categories  
-- Designed a spatial mapping dashboard optimized to **5ms latency** for real-time industrial feedback  
-- Built a batch-processing pipeline handling **50+ images per session**, improving scalability significantly  
-- Automated reporting workflows using PDF/CSV generation, reducing manual effort by **70%**  
-- Presented system architecture and results to senior technical panel as primary liaison  
+🎓 B.Tech Electrical Engineering @ SGSITS Indore (2023–2027)  
+📊 CGPA: 8.46  
+🤖 Focused on AI, Machine Learning & Computer Vision  
 
----
-
-### 🤖 Machine Learning Intern – Edunet Foundation (Apr 2025 – May 2025)
-- Built and deployed ML and Generative AI models improving accuracy by **12%** on real datasets  
-- Optimized NLP pipelines, reducing training time by **20%**  
-- Collaborated in a 5-member team improving delivery efficiency by **15%**  
-- Researched ethical AI practices and produced guidelines adopted across projects  
+I build **real-world AI systems** that solve industrial and financial problems using:
+- Computer Vision
+- Deep Learning
+- Predictive Modeling
+- Data-driven AI systems
 
 ---
 
-## 📊 Featured Projects
+## 🧠 Experience
 
-### 🔍 AI Circuit Guard – PCB Defect Detection
-**Tech Stack:** PyTorch, OpenCV, Streamlit, Computer Vision  
-- Built an end-to-end defect detection system achieving **94% mAP accuracy**  
-- Processed **1500+ high-resolution images** with augmentation improving robustness by 15%  
-- Optimized inference pipeline to **5ms latency per image**  
-- Developed a Streamlit dashboard reducing manual inspection effort by **90%**
+### 🏢 Infosys Springboard — AI Intern
+`Computer Vision | Edge AI | Industrial Systems`
+
+- 🧩 Built PCB defect detection system → **94% mAP accuracy**
+- ⚡ Optimized inference pipeline → **5ms latency**
+- 📊 Designed real-time spatial mapping dashboard
+- 📦 Processed 50+ images per batch efficiently
+- 📄 Automated reporting system → **70% manual effort reduced**
 
 ---
 
-### 🏥 Healthcare Insurance Premium Prediction
-**Tech Stack:** Python, Machine Learning, XGBoost  
-- Built regression models to predict insurance premiums across demographics  
-- Implemented Linear, Ridge, and XGBoost models with feature engineering  
-- Achieved **99.7% accuracy for high-risk segmentation group**  
-- Delivered insights using feature importance visualization for business decisions  
+### 🧠 Edunet Foundation — ML Intern
+`Machine Learning | NLP | Cloud AI`
+
+- 📈 Improved model accuracy by **12%**
+- ⚙️ Reduced training time by **20%**
+- 🤝 Worked in a 5-member AI team (15% faster delivery)
+- 📚 Researched Ethical AI → created reusable guidelines
+
+---
+
+## 🚀 Featured Projects
+
+### 🔍 AI Circuit Guard (PCB Defect Detection)
+`PyTorch • OpenCV • Streamlit`
+
+<p>
+✔ 94% mAP Accuracy<br>
+✔ 1500+ Image Dataset<br>
+✔ 5ms Inference Latency<br>
+✔ 90% Faster Inspection Process
+</p>
+
+---
+
+### 🏥 Healthcare Premium Prediction
+`XGBoost • Machine Learning`
+
+<p>
+✔ High-accuracy predictive model<br>
+✔ Multi-segment risk classification<br>
+✔ 99.7% accuracy (high-risk group)<br>
+✔ Feature importance insights
+</p>
 
 ---
 
 ### 💳 Credit Risk Modeling System
-**Tech Stack:** Scikit-learn, XGBoost, Pandas  
-- Designed credit scoring system predicting borrower default probability  
-- Achieved **AUC 0.98, KS 85.98%, Gini 0.97**  
-- Reduced false positives by **20% using optimized feature handling**  
-- Built explainable ML pipeline for financial decision-making  
+`ML • Finance AI • XGBoost`
+
+<p>
+✔ AUC: 0.98 | KS: 85.98% | Gini: 0.97<br>
+✔ 20% reduction in false positives<br>
+✔ Credit scoring (Poor → Excellent)<br>
+✔ Explainable AI pipeline
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-**Languages:** Python, Java, C, SQL  
+<p align="center">
 
-**AI / ML:** Machine Learning, Deep Learning, Computer Vision, NLP, Statistical Modeling  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-**Frameworks & Tools:**  
-PyTorch • TensorFlow • Scikit-learn • OpenCV • Streamlit • NumPy • Pandas • Matplotlib  
+</p>
 
-**Developer Tools:**  
-Git • GitHub • Linux (Ubuntu) • VS Code  
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
-## 🏆 Achievements & Certifications
-
-- 🏅 Amazon ML Summer School 2025 – Selected (Top 3000 / 60,000)  
-- 🏅 Kaggle NLP Competition – Top 25% (Disaster Tweets Challenge)  
-- 🏅 Kaggle NLP – Rank 6/24 (Multilingual Entailment Challenge)  
-- 🏆 Amazon ML Challenge 2025 – Ranked 688 nationally  
-- 🧠 SIH Finalist – Smart India Hackathon (SGSITS Indore)  
-- 🎓 NPTEL Certification – Introduction to Machine Learning  
-- 🎓 HackerRank Certification – Python for Data Science  
-- 🤝 NSS B-Level Certificate – Social service & leadership  
+</p>
 
 ---
 
-## 📌 Positions of Responsibility
+## 🏆 Achievements
 
-**NSS – Documentation Secretary (SGSITS Indore)**  
-- Managed official documentation, reports, and event records  
-- Led content creation and publication for NSS newsletters  
-- Coordinated communication for events and reporting workflows  
+🏅 Amazon ML Summer School (Top 3000 / 60,000)  
+🏅 Kaggle NLP Competition — Top 25%  
+🏅 Kaggle Multilingual NLP — Rank 6/24  
+🏆 Amazon ML Challenge — Rank 688 Nationwide  
+🎓 NPTEL Machine Learning Certified  
+🎓 HackerRank Python for Data Science  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vedant4102004&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant4102004&theme=tokyonight" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: www.linkedin.com/in/vedant-gawande  
-- 📧 Email: vedantgawande488@gmail.com  
-- 🧠 GitHub: Vedant4102004  
+<p align="center">
+
+<a href="mailto:vedantgawande488@gmail.com">
+  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vedant-gawande">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Vedant4102004">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-## ⚡ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vedant4102004&show_icons=true&theme=tokyonight)
-
----
-
-⭐ *“Building AI systems that solve real-world problems and create impact.”*
+<p align="center">
+  <b>🚀 “Building intelligent systems that create real-world impact.”</b>
+</p>
