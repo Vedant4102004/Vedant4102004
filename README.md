@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=Vedant+Gawande;AI%2FML+Engineer;Computer+Vision+%7C+Deep+Learning;Exploring+GenAI+%26+LLMs" />
 </p>
-
 ---
 
 ## 👋 About Me
