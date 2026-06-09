@@ -47,7 +47,7 @@
 
 ---
 
-## 🛠️ Skills (VISUAL)
+## 🛠️ Skills
 
 ### 👨‍💻 Programming Languages
 <p>
